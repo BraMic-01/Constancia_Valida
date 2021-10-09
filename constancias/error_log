@@ -1,0 +1,2 @@
+[03-May-2021 15:12:59 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'adminbd'@'localhost' (using password: YES) in /home/buextrag/public_html/uploads/constancias/conexion.php on line 7
+[03-May-2021 15:15:15 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'adminbd'@'localhost' (using password: YES) in /home/buextrag/public_html/uploads/constancias/conexion.php on line 7
